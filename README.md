@@ -1,16 +1,18 @@
-# belajar_flutter_octa
+# Praktikum Flutter
 
-A new Flutter project.
+Aplikasi dasar Flutter untuk tugas praktikum yang menampilkan teks, tombol, dan gambar dinamis sesuai dengan instruksi.
 
-## Getting Started
+## Hasil Aplikasi
+| Tampilan Awal | Gambar Ditampilkan | Notifikasi Tombol |
+| :---: | :---: | :---: |
+| <img width="680" height="768" alt="image" src="https://github.com/user-attachments/assets/45432616-044a-4084-8303-4e2ac5083a23" /> | <img width="678" height="768" alt="image" src="https://github.com/user-attachments/assets/2dbea4ef-250c-4511-a3e7-efa19462d1d0" /> | <img width="682" height="768" alt="image" src="https://github.com/user-attachments/assets/fe6da2ae-11d2-43c4-9ea3-9b749c14b2d2" />|
 
-This project is a starting point for a Flutter application.
+## Cara Menjalankan
+```bash
+# Clone repositori ini
+git clone [LINK_REPOSITORI_ANDA]
+cd [NAMA_FOLDER_ANDA]
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Jalankan aplikasi
+flutter pub get
+flutter run
