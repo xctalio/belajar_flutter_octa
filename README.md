@@ -10,8 +10,8 @@ Aplikasi dasar Flutter untuk tugas praktikum yang menampilkan teks, tombol, dan 
 ## Cara Menjalankan
 ```bash
 # Clone repositori ini
-git clone [LINK_REPOSITORI_ANDA]
-cd [NAMA_FOLDER_ANDA]
+git clone [LINK_REPOSITORI]
+cd [NAMA_FOLDER]
 
 # Jalankan aplikasi
 flutter pub get
